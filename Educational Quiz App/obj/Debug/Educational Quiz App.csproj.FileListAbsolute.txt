@@ -1,0 +1,28 @@
+C:\Users\metaq\source\repos\Educational Quiz App\Educational Quiz App\obj\Debug\Educational Quiz App.csproj.AssemblyReference.cache
+C:\Users\metaq\source\repos\Educational Quiz App\Educational Quiz App\obj\Debug\MainWindow.g.cs
+C:\Users\metaq\source\repos\Educational Quiz App\Educational Quiz App\obj\Debug\App.g.cs
+C:\Users\metaq\source\repos\Educational Quiz App\Educational Quiz App\obj\Debug\Educational Quiz App_MarkupCompile.cache
+C:\Users\metaq\source\repos\Educational Quiz App\Educational Quiz App\obj\Debug\MainWindow.baml
+C:\Users\metaq\source\repos\Educational Quiz App\Educational Quiz App\obj\Debug\Educational Quiz App.g.resources
+C:\Users\metaq\source\repos\Educational Quiz App\Educational Quiz App\obj\Debug\Educational_Quiz_App.Properties.Resources.resources
+C:\Users\metaq\source\repos\Educational Quiz App\Educational Quiz App\obj\Debug\Educational Quiz App.csproj.GenerateResource.cache
+C:\Users\metaq\source\repos\Educational Quiz App\Educational Quiz App\obj\Debug\Educational Quiz App.csproj.CoreCompileInputs.cache
+C:\Users\metaq\source\repos\Educational Quiz App\Educational Quiz App\bin\Debug\Educational Quiz App.exe.config
+C:\Users\metaq\source\repos\Educational Quiz App\Educational Quiz App\bin\Debug\Educational Quiz App.exe
+C:\Users\metaq\source\repos\Educational Quiz App\Educational Quiz App\bin\Debug\Educational Quiz App.pdb
+C:\Users\metaq\source\repos\Educational Quiz App\Educational Quiz App\obj\Debug\Educational Quiz App.exe
+C:\Users\metaq\source\repos\Educational Quiz App\Educational Quiz App\obj\Debug\Educational Quiz App.pdb
+C:\Users\metaq\OneDrive\Desktop\Educational Quiz App\bin\Debug\Educational Quiz App.exe.config
+C:\Users\metaq\OneDrive\Desktop\Educational Quiz App\bin\Debug\Educational Quiz App.exe
+C:\Users\metaq\OneDrive\Desktop\Educational Quiz App\bin\Debug\Educational Quiz App.pdb
+C:\Users\metaq\OneDrive\Desktop\Educational Quiz App\obj\Debug\Educational Quiz App.csproj.AssemblyReference.cache
+C:\Users\metaq\OneDrive\Desktop\Educational Quiz App\obj\Debug\MainWindow.baml
+C:\Users\metaq\OneDrive\Desktop\Educational Quiz App\obj\Debug\MainWindow.g.cs
+C:\Users\metaq\OneDrive\Desktop\Educational Quiz App\obj\Debug\App.g.cs
+C:\Users\metaq\OneDrive\Desktop\Educational Quiz App\obj\Debug\Educational Quiz App_MarkupCompile.cache
+C:\Users\metaq\OneDrive\Desktop\Educational Quiz App\obj\Debug\Educational Quiz App.g.resources
+C:\Users\metaq\OneDrive\Desktop\Educational Quiz App\obj\Debug\Educational_Quiz_App.Properties.Resources.resources
+C:\Users\metaq\OneDrive\Desktop\Educational Quiz App\obj\Debug\Educational Quiz App.csproj.GenerateResource.cache
+C:\Users\metaq\OneDrive\Desktop\Educational Quiz App\obj\Debug\Educational Quiz App.csproj.CoreCompileInputs.cache
+C:\Users\metaq\OneDrive\Desktop\Educational Quiz App\obj\Debug\Educational Quiz App.exe
+C:\Users\metaq\OneDrive\Desktop\Educational Quiz App\obj\Debug\Educational Quiz App.pdb
